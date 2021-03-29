@@ -1,0 +1,11 @@
+Order ID
+Order Date
+Order Time
+Vendor ID
+Item ID
+Price
+Quantity
+Processed Date
+Processed Time
+Ship Date
+Ship Time
